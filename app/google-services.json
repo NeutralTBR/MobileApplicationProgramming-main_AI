@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160158891729",
+    "project_id": "educare-28991",
+    "storage_bucket": "educare-28991.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160158891729:android:b471a38cba7f84d6ffcff0",
+        "android_client_info": {
+          "package_name": "com.example.mobileapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk1kWEQI96yu5zIRuuCoN1Zi1R37EiD2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
